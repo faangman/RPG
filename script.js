@@ -4,4 +4,4 @@ let gold = 50;
 let currentWeapon = 0;
 let fighting;
 let monsterHealth;
-let inventory = ["ctick", "dagger", "sword"];
+let inventory = ["stick"];
